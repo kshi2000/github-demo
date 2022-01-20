@@ -1,2 +1,2 @@
 # github-demo
-Playing around with sample repo
+Playing around with a sample repo
